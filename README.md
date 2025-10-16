@@ -1,0 +1,2 @@
+# LogisticsShippingRates
+Sample LogisticsShippingRates project
